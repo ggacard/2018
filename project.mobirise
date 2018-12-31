@@ -29,7 +29,7 @@
       ]
     },
     "scrollAnimation": "true",
-    "uniqCompNum": 23,
+    "uniqCompNum": 24,
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128-4.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -156,7 +156,7 @@
           "title": "有朋自遠方來，不亦樂乎？<br>“Is it not delightful to have friends coming from distant quarters?”",
           "text": "<br>This quote from the <a href=\"https://ctext.org/analects/xue-er\" class=\"text-success\">Analects of Confucius</a> conveys our gratitude for your friendship support throughout 2018, and our warm wishes that you and your family may enjoy a Happy, Healthy, and Prosperous New Year.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> ",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-section-with-arrow mbr-parallax-background\" data-rv-view=\"0\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/confucius-1-1280x960.jpg&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.7; background-color: rgb(0, 0, 0);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"124\">有朋自遠方來，不亦樂乎？</h1>\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content custom-size\" code-editable-id=\"125\">“Is it not delightful to have friends <br> coming from distant quarters?”</h1>\n                    <p class=\"mbr-section-lead lead mbr-editable-content\" code-editable-id=\"126\"><br>In the words of&nbsp;<a href=\"https://ctext.org/analects/xue-er\" class=\"text-success\">Confucius</a>, please accept our gratitude for your friendship and support throughout 2018, and our warm wishes that you and your family may enjoy a Happy, Healthy, and Prosperous New Year.</p>\n                    \n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\"><a href=\"#features3-4\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-section-with-arrow mbr-parallax-background\" data-rv-view=\"0\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/confucius-1-1280x960.jpg&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.7; background-color: rgb(0, 0, 0);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"139\">有朋自遠方來，不亦樂乎？</h1>\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content custom-size\" code-editable-id=\"140\">“Is it not delightful to have friends <br> coming from distant quarters?”</h1>\n                    <p class=\"mbr-section-lead lead mbr-editable-content\" code-editable-id=\"141\"><br>In the words of&nbsp;<a href=\"https://ctext.org/analects/xue-er\" class=\"text-success\">Confucius</a>, please accept our gratitude for your friendship and support throughout 2018, and our warm wishes that you and your family may enjoy a Happy, Healthy, and Prosperous New Year.</p>\n                    \n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\"><a href=\"#features3-k\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-section-title {\n  color: #dfac0c;\n}\n.mbr-section-lead {\n  color: #dfac0c;\n}\n.custom-size {\n    font-size: 2em;\n}\n",
@@ -241,10 +241,10 @@
           },
           "title1": "Parting",
           "subtitle1": "is such sweet sorrow",
-          "caption1": "Possibly the saddest part of 2018 has been the parting from the team in EURO and leaving Copenhagen; though the choice was voluntary, the nostalgia and the warm memories are unavoidable. All good wishes and sincere gratitude go to Zsuzsanna and the WHO/Europe family and to the DNP Division across Copenhagen, Moscow and the country offices. Thank you for the best seven years imaginable.",
+          "caption1": "Possibly the saddest part of 2018 has been the parting from the team in EURO and leaving Copenhagen; though the choice was voluntary, the nostalgia and the warm memories are unavoidable. All good wishes and sincere gratitude go to Zsuzsanna and the WHO/Europe family and to the DNP Division across Copenhagen, Moscow and the country offices. <b>Thank you for the best seven years imaginable.</b>",
           "title2": "New Beginnings",
           "subtitle2": "and the joys of discovery",
-          "caption2": "At the same time, we were warmly received by the WHO/WPRO family and the new team in the China office, full of youth, dedication, and boisterous enthusiasm. These seven months have been a joy and the exploration of China -- as a country and as a public health challenge -- a thrilling adventure. Here's to new adventures in the Year of the Pig!",
+          "caption2": "At the same time, we were warmly received by the WHO/WPRO family and the new team in the China office, full of youth, dedication, and boisterous enthusiasm. These seven months have been a joy and the exploration of China -- as a country and as a public health challenge -- a thrilling adventure.<br><b>Have a Happy Year of the Pig!</b>",
           "title3": "Highlights",
           "subtitle3": "in a year packed with developments",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -317,7 +317,7 @@
                 "title": "D.Sc. Honoris Causa",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Gauden was privileged to receive an honorary doctorate from the University of Malta. In his <a href=\"https://gaudengalea.com/papers/talk20181123/\">acceptance speech</a>, he reflected on the strong bonds between mentors and mentees, and reflected on his learning from Chinese culture.",
+                "text": "Gauden was awarded an honorary doctorate by the University of Malta. In his <a href=\"https://gaudengalea.com/papers/talk20181123/\">acceptance speech</a>, he reflected on his learning from &nbsp;a Maltese upbringing and present immersion in Chinese culture.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
               },
               {
@@ -345,7 +345,7 @@
                 "title": "Innovation Awards",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Josianne and her teams was twice awarded with winning proposals presented in contests at <a href=\"https://www.worlddiabetesfoundation.org/news/after-unleash-efforts-defeat-ncds-continue\">UNLEASH innovation labs</a> in Copenhagen (diabetes solution) and Singapore (gender equity solution).",
+                "text": "Josianne and her team were twice awarded. They presented winning proposals at the&nbsp;<a href=\"https://www.worlddiabetesfoundation.org/news/after-unleash-efforts-defeat-ncds-continue\">UNLEASH innovation labs</a> in Copenhagen (diabetes solution) and Singapore (gender equity solution).",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
               },
               {
@@ -359,7 +359,7 @@
                 "title": "The Year of the Selfie",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Ann and Gauden travelled across their new home, and enjoyed the hospitality, cuisine, history, culture, and art of Beijing, Chengdu, Xi'an, Nanning, and Tianjin between May and December, their first seven months in China.",
+                "text": "Ann and Gauden travelled across their new home, and enjoyed the hospitality, cuisine, history, culture, and art of Beijing, Chengdu, Xi'an, Nanning, and Tianjin in their first seven months in China.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
               },
               {
@@ -370,7 +370,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "The Intrepid Foursome",
+                "title": "The Intrepid Four",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Josianne and Johannes, Gabriel and Joanna, have travelled widely, embarked on new courses, found new jobs, published new papers, and generally enjoyed each other's company at various points in 2018.",
@@ -406,7 +406,7 @@
             "bgColor": "#fff"
           },
           "title": "Books we enjoyed in 2018",
-          "meta": "A Sampler of books that reflect the region we leave and the country we are calling home.",
+          "meta": "A sampler of novels about, or from, Russia and China.",
           "_tags": [
             "Theme"
           ],
@@ -501,13 +501,13 @@
           "caption1": "Count Rostov is condemned to life imprisonment in the Hotel Metropol in Moscow, our favourite hotel. The style, wit, and humour of this novel is unequalled.",
           "title2": "The Master and Margarita",
           "subtitle2": "Mikhail Bulgakov",
-          "caption2": "The devil and his henchmen visit Moscow and wreak havoc. This satirical masterpiece, written between 1928 and 1940, dissects Muscovite society of the time and hilarity ensues.",
+          "caption2": "The devil and his henchmen visit Moscow and wreak havoc. This satirical masterpiece, written between 1928 and 1940, dissects Muscovite society of the time and mayhem and hilarity ensue.",
           "title3": "Fortress Beseiged",
           "subtitle3": "Qian Zhongshu",
           "caption3": "Another satirical masterpiece this time poking fun at Chinese society and manners in the 1930s, much the same period as Master and Margarita in Russia, even if the two could not be more different.",
           "title4": "A Hero Born",
           "subtitle4": "Jin Yong",
-          "caption4": "The first volume of The Legends of the Condor Heroes, a classic of the magical kung fu genre. It narrates the coming of age of Guo Jing, under the tutelage of his devoted, if sometimes bungling, <i>shifu</i>, or teachers",
+          "caption4": "The first volume of The Legends of the Condor Heroes, a classic of <i>wuxi</i>, the magical kung fu genre. Our Hero, Guo Jing, comes of age under the tutelage of his devoted, if sometimes bungling, <i>shifu</i>, or teachers",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -581,7 +581,7 @@
             }
           },
           "title2": "Three Generations",
-          "subtitle2": "Love, and its Rituals",
+          "subtitle2": "Love, and its rituals",
           "caption2": "This was the first year in living memory that we did not manage a reunion of the whole clan, but Nannu and Nanna continued to provide a base for us all, and a hub of family traditions.<br><b>May you treasure every day you enjoy with your loved ones in 2019!</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><br></a>",
           "media3": {
