@@ -1,6 +1,6 @@
-# 2017
+# 2018
 
 
-Greeting card mini-site for 2017.
+Greeting card mini-site for 2018.
 
-https://ggacard.github.io/2017/
+https://ggacard.github.io/2018/
